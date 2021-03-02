@@ -1,1 +1,2 @@
-# electronjs-product-app
+# Screenshot
+![](docs/screenshot.png)
